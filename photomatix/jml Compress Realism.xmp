@@ -1,0 +1,28 @@
+<x:xmpmeta xmlns:x='adobe:ns:meta/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+<rdf:Description rdf:about=''
+xmlns:pmtm='http://www.hdrsoft.com/photomatix_settings01'>
+<pmtm:Version>5.0</pmtm:Version>
+<pmtm:Method>Details Enhancer</pmtm:Method>
+<pmtm:Strength>90.0</pmtm:Strength>
+<pmtm:ColorSaturation>71.0</pmtm:ColorSaturation>
+<pmtm:Luminosity>5.5</pmtm:Luminosity>
+<pmtm:WhiteClip>1.195824</pmtm:WhiteClip>
+<pmtm:BlackClip>0.161259</pmtm:BlackClip>
+<pmtm:SmoothingMode>Slider</pmtm:SmoothingMode>
+<pmtm:Smoothing>0.0</pmtm:Smoothing>
+<pmtm:Microcontrast>7.4</pmtm:Microcontrast>
+<pmtm:Microsmoothing>2.0</pmtm:Microsmoothing>
+<pmtm:Gamma>1.00</pmtm:Gamma>
+<pmtm:HighlightsSmoothing>40.0</pmtm:HighlightsSmoothing>
+<pmtm:ShadowsSmoothing>32.0</pmtm:ShadowsSmoothing>
+<pmtm:ShadowsClipping>20.0</pmtm:ShadowsClipping>
+<pmtm:ColorTemperature>5.2</pmtm:ColorTemperature>
+<pmtm:SaturationHighlights>0.0</pmtm:SaturationHighlights>
+<pmtm:SaturationShadows>0.0</pmtm:SaturationShadows>
+<pmtm:IsPano360>No </pmtm:IsPano360>
+</rdf:Description>
+
+</rdf:RDF>
+</x:xmpmeta>
