@@ -1,0 +1,30 @@
+<ColorEfexPro4_preset name="" uiname="">
+	<filter name="VignetteFilter">
+		<parameter name="vigStrength" map2name="vigStrength" uiName="Amount" value="-27" visible="1" valueType="float"/>
+		<parameter name="vigShape" map2name="vigShape" uiName="Vignette Shape" value="4.15" visible="1" valueType="float"/>
+		<parameter name="vigSize" map2name="vigSize" uiName="Size" value="70" visible="1" valueType="float"/>
+		<parameter name="brightness" map2name="brightness" uiName="Brightness" value="-6" visible="1" valueType="float"/>
+		<parameter name="vignetteCenterX" map2name="vignetteCenterX" uiName="Vignette X" value="0.5" visible="1" valueType="float"/>
+		<parameter name="vignetteCenterY" map2name="vignetteCenterY" uiName="Vignette Y" value="0.5" visible="1" valueType="float"/>
+		<parameter name="baseFill" map2name="baseFill" uiName="Opacity" value="1" visible="1" valueType="float"/>
+		<parameter name="wholeFilterDeactivated" map2name="wholeFilterDeactivated" uiName="Filter State" value="0" visible="1" valueType="int"/>
+	</filter>
+	<filter name="Bring_Out_Details">
+		<parameter name="strengthFactor" map2name="strengthFactor" uiName="Detail Extractor" value="25" visible="1" valueType="float"/>
+		<parameter name="contrast" map2name="contrast" uiName="Contrast" value="0" visible="1" valueType="float"/>
+		<parameter name="saturation" map2name="saturation" uiName="Saturation" value="0" visible="1" valueType="float"/>
+		<parameter name="DiameterComboBox" map2name="DiameterComboBox" uiName="Effect Radius" value="1" visible="1" valueType="int"/>
+		<parameter name="protect_shadows" map2name="protect_shadows" uiName="Shadows" value="0" visible="1" valueType="float"/>
+		<parameter name="protect_hilights" map2name="protect_hilights" uiName="Highlights" value="0" visible="1" valueType="float"/>
+		<parameter name="baseFill" map2name="baseFill_0" uiName="Opacity" value="1" visible="1" valueType="float"/>
+		<parameter name="wholeFilterDeactivated" map2name="wholeFilterDeactivated_0" uiName="Filter State" value="0" visible="1" valueType="int"/>
+	</filter>
+	<group name="general">
+		<key name="name" type="string" value="Slight Punch with Vignette"/>
+		<key name="tags" type="string_array">
+			<string value="All"/>
+			<string value="Custom"/>
+		</key>
+	</group>
+</ColorEfexPro4_preset>
+
