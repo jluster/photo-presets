@@ -1,0 +1,95 @@
+<SilverEfexPro2_preset>
+	<filter name="LeonisFilter">
+		<parameter name="filmTypesPresets" map2name="filmTypesPresets" uiName="Preset" value="8" visible="1" valueType="int"/>
+		<parameter name="filmTypesPresets_intern" map2name="filmTypesPresets_intern" uiName="" value="8" visible="1" valueType="int"/>
+		<parameter name="toningPresets" map2name="toningPresets" uiName="Toning Preset" value="6" visible="1" valueType="int"/>
+		<parameter name="toningPresets_intern" map2name="toningPresets_intern" uiName="" value="6" visible="1" valueType="int"/>
+		<parameter name="vignettePresets" map2name="vignettePresets" uiName="Vignette Preset" value="0" visible="1" valueType="int"/>
+		<parameter name="vignettePresets_intern" map2name="vignettePresets_intern" uiName="" value="0" visible="1" valueType="int"/>
+		<parameter name="burnEdgesPresets" map2name="burnEdgesPresets" uiName="Burn Edges Preset" value="0" visible="1" valueType="int"/>
+		<parameter name="burnEdgesPresets_intern" map2name="burnEdgesPresets_intern" uiName="" value="0" visible="1" valueType="int"/>
+		<parameter name="borderType" map2name="borderType" uiName="Border Type" value="0" visible="1" valueType="int"/>
+		<parameter name="globalBrightness" map2name="globalBrightness" uiName="Brightness" value="0" visible="1" valueType="float"/>
+		<parameter name="hiBrightness" map2name="hiBrightness" uiName="Brightness (Highlights)" value="0" visible="1" valueType="float"/>
+		<parameter name="medBrightness" map2name="medBrightness" uiName="Brightness (Midtones)" value="0" visible="1" valueType="float"/>
+		<parameter name="loBrightness" map2name="loBrightness" uiName="Brightness (Shadows)" value="0" visible="1" valueType="float"/>
+		<parameter name="adaptiveBrightness" map2name="adaptiveBrightness" uiName="Dynamic Brightness" value="0" visible="1" valueType="float"/>
+		<parameter name="globalContrast" map2name="globalContrast" uiName="Contrast" value="18.5792" visible="1" valueType="float"/>
+		<parameter name="softContrast" map2name="softContrast" uiName="Soft Contrast" value="-31.7073" visible="1" valueType="float"/>
+		<parameter name="adaptiveWP" map2name="adaptiveWP" uiName="Amplify Whites" value="0" visible="1" valueType="float"/>
+		<parameter name="adaptiveBP" map2name="adaptiveBP" uiName="Amplify Blacks" value="0" visible="1" valueType="float"/>
+		<parameter name="globalStructure" map2name="globalStructure" uiName="Structure" value="0" visible="1" valueType="float"/>
+		<parameter name="hiStructure" map2name="hiStructure" uiName="Structure (Highlights)" value="0" visible="1" valueType="float"/>
+		<parameter name="medStructure" map2name="medStructure" uiName="Structure (Midtones)" value="-17.0732" visible="1" valueType="float"/>
+		<parameter name="loStructure" map2name="loStructure" uiName="Structure (Shadows)" value="0" visible="1" valueType="float"/>
+		<parameter name="fineStructure" map2name="fineStructure" uiName="Fine Structure" value="44.5122" visible="1" valueType="float"/>
+		<parameter name="protectShadows" map2name="protectShadows" uiName="Shadow Protection" value="0" visible="1" valueType="float"/>
+		<parameter name="protectHighlights" map2name="protectHighlights" uiName="Highlight Protection" value="0" visible="1" valueType="float"/>
+		<parameter name="colorFilterHue" map2name="colorFilterHue" uiName="Color Filter Hue" value="0" visible="1" valueType="float"/>
+		<parameter name="colorFilterStrength" map2name="colorFilterStrength" uiName="Color Filter Strength" value="0" visible="1" valueType="float"/>
+		<parameter name="sensR" map2name="sensR" uiName="Film Sensitivity (Red)" value="57" visible="1" valueType="float"/>
+		<parameter name="sensYe" map2name="sensYe" uiName="Film Sensitivity (Yellow)" value="43" visible="1" valueType="float"/>
+		<parameter name="sensG" map2name="sensG" uiName="Film Sensitivity (Green)" value="58" visible="1" valueType="float"/>
+		<parameter name="sensCy" map2name="sensCy" uiName="Film Sensitivity (Cyan)" value="65" visible="1" valueType="float"/>
+		<parameter name="sensB" map2name="sensB" uiName="Film Sensitivity (Blue)" value="57" visible="1" valueType="float"/>
+		<parameter name="sensMg" map2name="sensMg" uiName="Film Sensitivity (Violet)" value="73" visible="1" valueType="float"/>
+		<parameter name="vigStrength" map2name="vigStrength" uiName="Vignette Amount" value="0" visible="1" valueType="float"/>
+		<parameter name="vigShape" map2name="vigShape" uiName="Vignette Shape" value="2" visible="1" valueType="float"/>
+		<parameter name="vigSize" map2name="vigSize" uiName="Vignette Size" value="50" visible="1" valueType="float"/>
+		<parameter name="vignetteCenterX" map2name="vignetteCenterX" uiName="Vignette X" value="0.5" visible="1" valueType="float"/>
+		<parameter name="vignetteCenterY" map2name="vignetteCenterY" uiName="Vignette Y" value="0.5" visible="1" valueType="float"/>
+		<parameter name="grainSliderStrength" map2name="grainSliderStrength" uiName="Grain per pixel" value="500" visible="1" valueType="float"/>
+		<parameter name="grainSliderSoftness" map2name="grainSliderSoftness" uiName="Grain Hardness" value="-100" visible="1" valueType="float"/>
+		<parameter name="toneHueLow" map2name="toneHueLow" uiName="Silver Hue" value="245" visible="1" valueType="float"/>
+		<parameter name="toneHueHigh" map2name="toneHueHigh" uiName="Paper Hue" value="195" visible="1" valueType="float"/>
+		<parameter name="toneHueBalance" map2name="toneHueBalance" uiName="Toning Balance" value="-40" visible="1" valueType="float"/>
+		<parameter name="toneStrengthHighRelative" map2name="toneStrengthHighRelative" uiName="" value="0.409091" visible="1" valueType="float"/>
+		<parameter name="toneStrengthLowRelative" map2name="toneStrengthLowRelative" uiName="" value="1" visible="1" valueType="float"/>
+		<parameter name="toneStrengthHigh" map2name="toneStrengthHigh" uiName="Paper Toning" value="9" visible="1" valueType="float"/>
+		<parameter name="toneStrengthLow" map2name="toneStrengthLow" uiName="Silver Toning" value="22" visible="1" valueType="float"/>
+		<parameter name="toningStrength" map2name="toningStrength" uiName="Toning Strength" value="22" visible="1" valueType="float"/>
+		<parameter name="beStrengthLeft" map2name="beStrengthLeft" uiName="Burn Edges Strength (Left)" value="0" visible="1" valueType="float"/>
+		<parameter name="beStrengthRight" map2name="beStrengthRight" uiName="Burn Edges Strength (Right)" value="0" visible="1" valueType="float"/>
+		<parameter name="beStrengthTop" map2name="beStrengthTop" uiName="Burn Edges Strength (Top)" value="0" visible="1" valueType="float"/>
+		<parameter name="beStrengthBottom" map2name="beStrengthBottom" uiName="Burn Edges Strength (Bottom)" value="0" visible="1" valueType="float"/>
+		<parameter name="beSizeLeft" map2name="beSizeLeft" uiName="Burn Edges Size (Left)" value="0" visible="1" valueType="float"/>
+		<parameter name="beSizeRight" map2name="beSizeRight" uiName="Burn Edges Size (Right)" value="0" visible="1" valueType="float"/>
+		<parameter name="beSizeTop" map2name="beSizeTop" uiName="Burn Edges Size (Top)" value="0" visible="1" valueType="float"/>
+		<parameter name="beSizeBottom" map2name="beSizeBottom" uiName="Burn Edges Size (Bottom)" value="0" visible="1" valueType="float"/>
+		<parameter name="beTransitionLeft" map2name="beTransitionLeft" uiName="Burn Edges Transition (Left)" value="0" visible="1" valueType="float"/>
+		<parameter name="beTransitionRight" map2name="beTransitionRight" uiName="Burn Edges Transition (Right)" value="0" visible="1" valueType="float"/>
+		<parameter name="beTransitionTop" map2name="beTransitionTop" uiName="Burn Edges Transition (Top)" value="0" visible="1" valueType="float"/>
+		<parameter name="beTransitionBottom" map2name="beTransitionBottom" uiName="Burn Edges Transition (Bottom)" value="0" visible="1" valueType="float"/>
+		<parameter name="borderSize" map2name="borderSize" uiName="Border Size" value="0" visible="1" valueType="float"/>
+		<parameter name="borderSpread" map2name="borderSpread" uiName="Border Spread" value="0" visible="1" valueType="float"/>
+		<parameter name="borderRandom" map2name="borderRandom" uiName="Vary Border" value="0" visible="1" valueType="float"/>
+		<parameter name="borderGrunge" map2name="borderGrunge" uiName="Border Roughness" value="0" visible="1" valueType="float"/>
+		<parameter name="mainControlsEnabled" map2name="mainControlsEnabled" uiName="" value="1" visible="1" valueType="int"/>
+		<parameter name="controlPointListEnabled" map2name="controlPointListEnabled" uiName="" value="1" visible="1" valueType="int"/>
+		<parameter name="colorFilterSectionEnabled" map2name="colorFilterSectionEnabled" uiName="" value="1" visible="1" valueType="int"/>
+		<parameter name="filmTypesSectionEnabled" map2name="filmTypesSectionEnabled" uiName="" value="1" visible="1" valueType="int"/>
+		<parameter name="stylizingSectionEnabled" map2name="stylizingSectionEnabled" uiName="" value="1" visible="1" valueType="int"/>
+		<parameter name="inkingDeaktivatedForSaving" map2name="inkingDeaktivatedForSaving" uiName="" value="0" visible="1" valueType="int"/>
+		<parameter name="lacdata" map2name="lacdata" uiName="Adjust curve" value='&lt;Lac_serialization&gt;
+	&lt;key name="lowNodeX" value="0"/&gt;
+	&lt;key name="lowNodeY" value="0"/&gt;
+	&lt;key name="highNodeX" value="1"/&gt;
+	&lt;key name="highNodeY" value="1"/&gt;
+	&lt;key name="gamma" value="0"/&gt;
+	&lt;key name="intNodeCount" value="2"/&gt;
+	&lt;key name="intNodeX0" value="0.1563"/&gt;
+	&lt;key name="intNodeY0" value="0.0813"/&gt;
+	&lt;key name="intNodeX1" value="0.6062"/&gt;
+	&lt;key name="intNodeY1" value="0.65"/&gt;
+&lt;/Lac_serialization&gt;
+' visible="1" valueType="int"/>
+	</filter>
+	<group name="general">
+		<key name="name" type="string" value="Ilford 100 Darkened"/>
+		<key name="tags" type="string_array">
+			<string value="Custom"/>
+		</key>
+		<key name="uid" type="string" value="2014-02-25T08:26:06807838172"/>
+	</group>
+</SilverEfexPro2_preset>
+
