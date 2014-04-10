@@ -4,4 +4,4 @@ All Presets are made available to you by Jonas M Luster <jml@jml.is> under a [Cr
 
 Lightroom: Instead of installing this via right-click -> Install, you can also just move the included folder into "<Your Home>/AppData/Roaming/Adobe/Lightroom/Develop Presets". It's faster and easier.
 
-[Here](https://plus.google.com/+JonasLuster/posts/E8XyUXyo1BQ) is an example in the wild.
+[Here](https://plus.google.com/+JonasLuster/posts/E8XyUXyo1BQ) is an example in the wild thanks to the amazing [FoodiePrints](https://plus.google.com/115037360951762915318/posts).
